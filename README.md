@@ -1,3 +1,4 @@
+![logo](https://github.com/Geetanjali-0402/Geetanjali-0402/blob/main/Make%20your%20README-1.png)
 <h1 align="center">Hi, I'm Geetanjali Pal</h1>
 <h3 align="center">Tech Enthusiast and Machine Learning practitioner</h3>
 
