@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/geetanjali-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geetanjali-pal" height="30" width="40" /></a>
 <a href="https://instagram.com/_geetanjali_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_geetanjali_p" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/geetanjali unfiltered" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geetanjali unfiltered" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@geetanjali_pal04?si=1yk6baeld9nj3-qp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@geetanjali_pal04?si=1yk6baeld9nj3-qp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/geetanjali_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geetanjali_pal" height="30" width="40" /></a>
 </p>
 
@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geetanjali-0402&show_icons=true&locale=en&layout=compact" alt="geetanjali-0402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geetanjali-0402&" alt="geetanjali-0402" /></p>
+
